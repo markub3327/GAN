@@ -1,6 +1,6 @@
-# GAN
+# Generative Adversarial Network
 
-This repo is about using the GAN model for creating new faces.
+This repo is about using the Generative Adversarial Network (GAN) model for creating new faces with using CelebA dataset.
 
 ## Papers
 
@@ -9,7 +9,7 @@ This repo is about using the GAN model for creating new faces.
 - [Information-theoretic stochastic contrastive conditional GAN: InfoSCC-GAN](http://bayesiandeeplearning.org/2021/papers/15.pdf)
 - [Large-scale CelebFaces Attributes (CelebA) Dataset](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
 
-## Init
+## Initial
 
 ![NONE](img/init_state.png)
 
