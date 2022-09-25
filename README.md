@@ -1,5 +1,10 @@
 # Generative Adversarial Network
 
+[![Issues](https://img.shields.io/github/issues/markub3327/GAN)](https://github.com/markub3327/GAN/issues)
+![Commits](https://img.shields.io/github/commit-activity/w/markub3327/GAN)
+![Languages](https://img.shields.io/github/languages/count/markub3327/GAN)
+![Size](https://img.shields.io/github/repo-size/markub3327/GAN)
+
 This repo is about using the Generative Adversarial Network (GAN) model for creating new faces with using CelebA dataset.
 
 ## References
