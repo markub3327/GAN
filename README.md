@@ -24,6 +24,8 @@ This repo is about using the Generative Adversarial Network (GAN) model for crea
 
 ![NONE](img/results.png)
 
+![NONE](img/loss.png)
+
 ----------------------------------
 
 **Frameworks:** Tensorflow, WanDB, NumPy, Matplotlib
